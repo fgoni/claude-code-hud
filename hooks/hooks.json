@@ -1,0 +1,4 @@
+{
+  "description": "The HUD band above the prompt, /hud, and the timers that refresh Jira and the local stack",
+  "modules": ["./register.tsx"]
+}

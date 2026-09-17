@@ -1,0 +1,8 @@
+{
+  "name": "claude-code-hud",
+  "version": "0.1.0",
+  "description": "A band above the prompt with the branch's Jira ticket, time logged today and this week, the sprint's Deployed estimate, and the admin container's state with buttons for pest, php-cs-fixer and the ticket.",
+  "author": {
+    "name": "Facundo Goñi"
+  }
+}
